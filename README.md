@@ -15,3 +15,5 @@ Owen Cheung, Jason Lim, Truong Le, Shirley Hu
 
 <a href="./Data/Washington_State_Public_Libraries__Wifi_Locations.csv">Public library locations + wifi access in Washington</a>
 
+https://www.arcgis.com/apps/dashboards/4bcf7c77ecac475eb467e9df0028d05b
+Broadband Survey Map
