@@ -14,3 +14,5 @@ Owen Cheung, Jason Lim, Truong Le, Shirley Hu
 <a href="./Data/School_Building_Technology_Survey.csv">Technology integration within Washington schools</a>
 
 <a href="./Data/Washington_State_Public_Libraries__Wifi_Locations.csv">Public library locations + wifi access in Washington</a>
+
+<a href="<a href="./Data/Washington_State_Public_Libraries__Wifi_Locations.csv">Types of devices per household and type of internet subscription</a>
