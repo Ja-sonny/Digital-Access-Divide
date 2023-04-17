@@ -17,3 +17,5 @@ Owen Cheung, Jason Lim, Truong Le, Shirley Hu
 
 https://www.arcgis.com/apps/dashboards/4bcf7c77ecac475eb467e9df0028d05b
 Broadband Survey Map
+
+https://us-fcc.app.box.com/v/Form477Glossary <- Helpful glossary for terms
