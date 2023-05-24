@@ -1,0 +1,1346 @@
+[
+ {
+  "census tract": 53053060200,
+  "income z-score": 0.0544427197096789,
+  "computers z-score": 0.5419756400486144,
+  "internet z-score": 0.6493318342428391,
+  "composite index value": 0.4152500646670441
+ },
+ {
+  "census tract": 53053060300,
+  "income z-score": 0.414160621320275,
+  "computers z-score": -0.5723038105798323,
+  "internet z-score": -0.3927293230142077,
+  "composite index value": -0.1836241707579217
+ },
+ {
+  "census tract": 53053060400,
+  "income z-score": 1.577298376517147,
+  "computers z-score": -0.1082930129574293,
+  "internet z-score": 0.1913096046577651,
+  "composite index value": 0.5534383227391608
+ },
+ {
+  "census tract": 53053060500,
+  "income z-score": 2.552190587974936,
+  "computers z-score": 1.136693704606906,
+  "internet z-score": 1.05888610302526,
+  "composite index value": 1.582590131869034
+ },
+ {
+  "census tract": 53053060600,
+  "income z-score": 0.1869745122689244,
+  "computers z-score": -0.006994881082116059,
+  "internet z-score": 0.4772705733934198,
+  "composite index value": 0.2190834015267427
+ },
+ {
+  "census tract": 53053060700,
+  "income z-score": 1.143085480396125,
+  "computers z-score": -0.5298239488256686,
+  "internet z-score": -0.1843170915627982,
+  "composite index value": 0.1429814800025527
+ },
+ {
+  "census tract": 53053060800,
+  "income z-score": 0.8210481864739418,
+  "computers z-score": -1.108203605016974,
+  "internet z-score": 0.08952688697219312,
+  "composite index value": -0.06587617719027972
+ },
+ {
+  "census tract": 53053060903,
+  "income z-score": -0.2584992551153011,
+  "computers z-score": -0.791238482697445,
+  "internet z-score": -0.3248741778904929,
+  "composite index value": -0.4582039719010797
+ },
+ {
+  "census tract": 53053060904,
+  "income z-score": -0.0774197203618936,
+  "computers z-score": -0.7618293476368702,
+  "internet z-score": 0.01924834380834576,
+  "composite index value": -0.2733335747301394
+ },
+ {
+  "census tract": 53053060906,
+  "income z-score": -0.1875478914219677,
+  "computers z-score": -2.016619110221397,
+  "internet z-score": -1.463871256752847,
+  "composite index value": -1.222679419465404
+ },
+ {
+  "census tract": 53053060907,
+  "income z-score": -1.277017499299069,
+  "computers z-score": -3.258338146112335,
+  "internet z-score": -1.206991064498784,
+  "composite index value": -1.914115569970062
+ },
+ {
+  "census tract": 53053060908,
+  "income z-score": 1.540287121316407,
+  "computers z-score": -1.216037100239082,
+  "internet z-score": 0.5160449420355425,
+  "composite index value": 0.2800983210376225
+ },
+ {
+  "census tract": 53053061001,
+  "income z-score": -0.01993415377351025,
+  "computers z-score": -0.7585616659634731,
+  "internet z-score": -0.2352084504055842,
+  "composite index value": -0.3379014233808559
+ },
+ {
+  "census tract": 53053061002,
+  "income z-score": -1.454395908532402,
+  "computers z-score": -3.075347972402091,
+  "internet z-score": -2.34841154140127,
+  "composite index value": -2.292718474111921
+ },
+ {
+  "census tract": 53053061100,
+  "income z-score": -0.3713048361260671,
+  "computers z-score": -0.5461623571926546,
+  "internet z-score": -0.596294758385352,
+  "composite index value": -0.5045873172346912
+ },
+ {
+  "census tract": 53053061200,
+  "income z-score": -0.3902829478353828,
+  "computers z-score": -2.686493853267824,
+  "internet z-score": -1.509915819515367,
+  "composite index value": -1.528897540206192
+ },
+ {
+  "census tract": 53053061300,
+  "income z-score": -0.7500795967974698,
+  "computers z-score": 0.1825306559749218,
+  "internet z-score": -0.09949816015815498,
+  "composite index value": -0.2223490336602343
+ },
+ {
+  "census tract": 53053061400,
+  "income z-score": -2.049017159640461,
+  "computers z-score": -0.8663951611855808,
+  "internet z-score": -2.663453286618517,
+  "composite index value": -1.859621869148186
+ },
+ {
+  "census tract": 53053061501,
+  "income z-score": -1.184331866594237,
+  "computers z-score": -3.055741882361708,
+  "internet z-score": -2.731308431742232,
+  "composite index value": -2.323794060232725
+ },
+ {
+  "census tract": 53053061502,
+  "income z-score": -0.9405300663782987,
+  "computers z-score": 0.4210714181329178,
+  "internet z-score": 0.024095139888611,
+  "composite index value": -0.1651211694522566
+ },
+ {
+  "census tract": 53053061601,
+  "income z-score": -2.237262703379543,
+  "computers z-score": -3.444596001495976,
+  "internet z-score": -2.474428239488168,
+  "composite index value": -2.718762314787896
+ },
+ {
+  "census tract": 53053061602,
+  "income z-score": -1.403092009036057,
+  "computers z-score": 0.2380812444226743,
+  "internet z-score": -0.2618658288470437,
+  "composite index value": -0.4756255311534756
+ },
+ {
+  "census tract": 53053061700,
+  "income z-score": -0.624674439548154,
+  "computers z-score": -0.6147836723339959,
+  "internet z-score": -1.151252909575732,
+  "composite index value": -0.7969036738192941
+ },
+ {
+  "census tract": 53053061800,
+  "income z-score": -0.6940114825359233,
+  "computers z-score": -0.1703789647519763,
+  "internet z-score": -2.290249988438086,
+  "composite index value": -1.051546811908662
+ },
+ {
+  "census tract": 53053061900,
+  "income z-score": -1.122672690376834,
+  "computers z-score": -0.8925366145727585,
+  "internet z-score": -1.265152617461968,
+  "composite index value": -1.093453974137187
+ },
+ {
+  "census tract": 53053062000,
+  "income z-score": -1.253472041203279,
+  "computers z-score": 0.1367831125473611,
+  "internet z-score": -0.6932306799906582,
+  "composite index value": -0.6033065362155253
+ },
+ {
+  "census tract": 53053062300,
+  "income z-score": -0.5036791339823308,
+  "computers z-score": 0.002808163938075636,
+  "internet z-score": 0.09437368305245836,
+  "composite index value": -0.1354990956639323
+ },
+ {
+  "census tract": 53053062400,
+  "income z-score": -0.8519786696267411,
+  "computers z-score": -2.03622520026178,
+  "internet z-score": -1.335431160625815,
+  "composite index value": -1.407878343504779
+ },
+ {
+  "census tract": 53053062501,
+  "income z-score": -0.4880084110356344,
+  "computers z-score": -0.05601010618307396,
+  "internet z-score": 0.3294432929453272,
+  "composite index value": -0.07152507475779374
+ },
+ {
+  "census tract": 53053062502,
+  "income z-score": -0.8039821588930155,
+  "computers z-score": 0.9896480293040314,
+  "internet z-score": 1.034652122623933,
+  "composite index value": 0.4067726643449831
+ },
+ {
+  "census tract": 53053062600,
+  "income z-score": -1.250715883901096,
+  "computers z-score": -0.5330916304990658,
+  "internet z-score": -1.371782131227805,
+  "composite index value": -1.051863215209322
+ },
+ {
+  "census tract": 53053062801,
+  "income z-score": -1.795962545624338,
+  "computers z-score": -0.836986026125006,
+  "internet z-score": -0.4969354387399123,
+  "composite index value": -1.043294670163085
+ },
+ {
+  "census tract": 53053062802,
+  "income z-score": -0.6399907994131411,
+  "computers z-score": 0.3720561930319597,
+  "internet z-score": -0.2133978680443903,
+  "composite index value": -0.1604441581418572
+ },
+ {
+  "census tract": 53053062901,
+  "income z-score": -1.298476152580349,
+  "computers z-score": 0.08123252409960847,
+  "internet z-score": 0.1476884399353772,
+  "composite index value": -0.3565183961817877
+ },
+ {
+  "census tract": 53053062902,
+  "income z-score": -0.5265946132661932,
+  "computers z-score": 0.3361116946245905,
+  "internet z-score": 0.5015045537947465,
+  "composite index value": 0.1036738783843813
+ },
+ {
+  "census tract": 53053063000,
+  "income z-score": -0.5690000620440622,
+  "computers z-score": 1.241259518155616,
+  "internet z-score": 1.289108916837864,
+  "composite index value": 0.6537894576498059
+ },
+ {
+  "census tract": 53053063100,
+  "income z-score": -0.3914641581077468,
+  "computers z-score": -0.7945061643708424,
+  "internet z-score": 0.1719224203367038,
+  "composite index value": -0.3380159673806284
+ },
+ {
+  "census tract": 53053063200,
+  "income z-score": -0.4332002543979429,
+  "computers z-score": -0.6278543990275848,
+  "internet z-score": 0.4288026125907664,
+  "composite index value": -0.2107506802782537
+ },
+ {
+  "census tract": 53053063301,
+  "income z-score": -0.7938631242264302,
+  "computers z-score": -0.2520710065869064,
+  "internet z-score": 0.2955157203834697,
+  "composite index value": -0.2501394701432889
+ },
+ {
+  "census tract": 53053063302,
+  "income z-score": -0.6141222944483686,
+  "computers z-score": -0.08541924124364904,
+  "internet z-score": 0.4191090204302357,
+  "composite index value": -0.09347750508726066
+ },
+ {
+  "census tract": 53053063401,
+  "income z-score": -1.684928780022118,
+  "computers z-score": -1.582017447659569,
+  "internet z-score": -2.266016008036759,
+  "composite index value": -1.844320745239482
+ },
+ {
+  "census tract": 53053063402,
+  "income z-score": -1.131846756825528,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.136434840309505,
+  "composite index value": 0.4294424877979191
+ },
+ {
+  "census tract": 53053063501,
+  "income z-score": -0.9668316817762714,
+  "computers z-score": -0.1246314213244152,
+  "internet z-score": -0.8943727173216697,
+  "composite index value": -0.6619452734741188
+ },
+ {
+  "census tract": 53053063502,
+  "income z-score": -1.276899378271832,
+  "computers z-score": -0.9546225663673052,
+  "internet z-score": -0.7974367957163634,
+  "composite index value": -1.009652913451834
+ },
+ {
+  "census tract": 53053070100,
+  "income z-score": 0.6719007027501088,
+  "computers z-score": 1.139961386280303,
+  "internet z-score": 0.2882455262630717,
+  "composite index value": 0.7000358717644944
+ },
+ {
+  "census tract": 53053070204,
+  "income z-score": 0.467157588873675,
+  "computers z-score": -0.2030557814859482,
+  "internet z-score": 0.3318666909854598,
+  "composite index value": 0.1986561661243955
+ },
+ {
+  "census tract": 53053070205,
+  "income z-score": 0.1118495389465713,
+  "computers z-score": 1.113819932893125,
+  "internet z-score": 0.6081340675605839,
+  "composite index value": 0.61126784646676
+ },
+ {
+  "census tract": 53053070206,
+  "income z-score": 0.9471620698866761,
+  "computers z-score": 0.711895087065269,
+  "internet z-score": -0.3660719445727483,
+  "composite index value": 0.4309950707930656
+ },
+ {
+  "census tract": 53053070207,
+  "income z-score": 1.298217762833269,
+  "computers z-score": -0.1148283763042238,
+  "internet z-score": -2.110918533468269,
+  "composite index value": -0.3091763823130746
+ },
+ {
+  "census tract": 53053070208,
+  "income z-score": 1.548909956304664,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 1.422387378486756
+ },
+ {
+  "census tract": 53053070209,
+  "income z-score": 0.1678389058566269,
+  "computers z-score": 0.4929604149476564,
+  "internet z-score": 0.811699502931728,
+  "composite index value": 0.4908329412453371
+ },
+ {
+  "census tract": 53053070307,
+  "income z-score": 1.183207255980757,
+  "computers z-score": 0.6432737719239278,
+  "internet z-score": -1.216684656659314,
+  "composite index value": 0.2032654570817901
+ },
+ {
+  "census tract": 53053070308,
+  "income z-score": 0.1494907729592388,
+  "computers z-score": 0.2282781994024827,
+  "internet z-score": 0.2688583419420105,
+  "composite index value": 0.215542438101244
+ },
+ {
+  "census tract": 53053070309,
+  "income z-score": 0.8643198561182113,
+  "computers z-score": -0.8500567528185948,
+  "internet z-score": 0.01924834380834576,
+  "composite index value": 0.01117048236932074
+ },
+ {
+  "census tract": 53053070310,
+  "income z-score": 0.7138336674190323,
+  "computers z-score": 1.104016887872934,
+  "internet z-score": 1.010418142222607,
+  "composite index value": 0.9427562325048574
+ },
+ {
+  "census tract": 53053070311,
+  "income z-score": 1.003151436796732,
+  "computers z-score": 0.7739810388598158,
+  "internet z-score": 0.7971591146909319,
+  "composite index value": 0.8580971967824932
+ },
+ {
+  "census tract": 53053070312,
+  "income z-score": 1.934653857583015,
+  "computers z-score": 1.130158341260111,
+  "internet z-score": 0.5887468832395225,
+  "composite index value": 1.217853027360883
+ },
+ {
+  "census tract": 53053070313,
+  "income z-score": 0.9044416317028432,
+  "computers z-score": 0.5321725950284228,
+  "internet z-score": 0.3972984380690417,
+  "composite index value": 0.6113042216001027
+ },
+ {
+  "census tract": 53053070314,
+  "income z-score": 1.330071066511353,
+  "computers z-score": 0.983112665957237,
+  "internet z-score": 1.078273287346321,
+  "composite index value": 1.130485673271637
+ },
+ {
+  "census tract": 53053070315,
+  "income z-score": 2.101480121716563,
+  "computers z-score": 1.198779656401452,
+  "internet z-score": 0.9983011520219434,
+  "composite index value": 1.432853643379986
+ },
+ {
+  "census tract": 53053070316,
+  "income z-score": 1.254316114377072,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 0.3633708655071845,
+  "composite index value": 0.9671421199313456
+ },
+ {
+  "census tract": 53053070401,
+  "income z-score": 0.1790210297683398,
+  "computers z-score": 0.6367384085771334,
+  "internet z-score": 0.2179669830992245,
+  "composite index value": 0.3445754738148992
+ },
+ {
+  "census tract": 53053070403,
+  "income z-score": 0.3878983795980478,
+  "computers z-score": 0.8654761257149377,
+  "internet z-score": 0.5814766891191245,
+  "composite index value": 0.6116170648107034
+ },
+ {
+  "census tract": 53053070404,
+  "income z-score": 0.7606883415561393,
+  "computers z-score": 0.1106416591601834,
+  "internet z-score": 0.7389975617277479,
+  "composite index value": 0.5367758541480235
+ },
+ {
+  "census tract": 53053070703,
+  "income z-score": -0.1624274862963591,
+  "computers z-score": 0.3524501029915765,
+  "internet z-score": -0.4411972838168611,
+  "composite index value": -0.08372488904054791
+ },
+ {
+  "census tract": 53053071100,
+  "income z-score": -0.1869179126100403,
+  "computers z-score": -1.497057724151241,
+  "internet z-score": -1.398439509669265,
+  "composite index value": -1.027471715476849
+ },
+ {
+  "census tract": 53053071205,
+  "income z-score": 0.9523987687608233,
+  "computers z-score": -0.2814801416474812,
+  "internet z-score": 0.2882455262630717,
+  "composite index value": 0.3197213844588045
+ },
+ {
+  "census tract": 53053071206,
+  "income z-score": 0.281077597300593,
+  "computers z-score": -0.1278991029978127,
+  "internet z-score": 0.3876048459085111,
+  "composite index value": 0.1802611134037638
+ },
+ {
+  "census tract": 53053071207,
+  "income z-score": -1.220870637686031,
+  "computers z-score": -1.61469426439354,
+  "internet z-score": -1.800723584331287,
+  "composite index value": -1.545429495470286
+ },
+ {
+  "census tract": 53053071209,
+  "income z-score": 1.540090252937679,
+  "computers z-score": 0.83933467232776,
+  "internet z-score": 1.192172995232557,
+  "composite index value": 1.190532640165999
+ },
+ {
+  "census tract": 53053071210,
+  "income z-score": 1.869057313791065,
+  "computers z-score": 0.1465861575675526,
+  "internet z-score": 0.6420616401224412,
+  "composite index value": 0.8859017038270195
+ },
+ {
+  "census tract": 53053071211,
+  "income z-score": -0.9875422352183876,
+  "computers z-score": -0.7814354376772535,
+  "internet z-score": 0.05317591637020302,
+  "composite index value": -0.5719339188418127
+ },
+ {
+  "census tract": 53053071212,
+  "income z-score": -0.4740307561459933,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 0.74807380766987
+ },
+ {
+  "census tract": 53053071304,
+  "income z-score": -0.6004202552889457,
+  "computers z-score": 0.04202034401884212,
+  "internet z-score": 0.2179669830992245,
+  "composite index value": -0.1134776427236263
+ },
+ {
+  "census tract": 53053071305,
+  "income z-score": -0.2362137546433662,
+  "computers z-score": 1.097481524526139,
+  "internet z-score": 0.4409196027914299,
+  "composite index value": 0.4340624575580676
+ },
+ {
+  "census tract": 53053071306,
+  "income z-score": 0.1370880650994163,
+  "computers z-score": 0.4733543249072731,
+  "internet z-score": 0.6953763970053599,
+  "composite index value": 0.4352729290040164
+ },
+ {
+  "census tract": 53053071307,
+  "income z-score": 0.8869990933476009,
+  "computers z-score": 1.107284569546331,
+  "internet z-score": 1.303649305078659,
+  "composite index value": 1.099310989324197
+ },
+ {
+  "census tract": 53053071309,
+  "income z-score": 0.2002434409951471,
+  "computers z-score": 0.7739810388598158,
+  "internet z-score": 0.5935936793197878,
+  "composite index value": 0.5226060530582503
+ },
+ {
+  "census tract": 53053071310,
+  "income z-score": 1.493274952476318,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.165515616791097,
+  "composite index value": 1.314176649725732
+ },
+ {
+  "census tract": 53053071403,
+  "income z-score": -0.5414384890222346,
+  "computers z-score": 0.4864250516008619,
+  "internet z-score": 0.4384962047512971,
+  "composite index value": 0.1278275891099748
+ },
+ {
+  "census tract": 53053071408,
+  "income z-score": -0.4418624630619459,
+  "computers z-score": 0.6661475436377081,
+  "internet z-score": -0.3975761190944729,
+  "composite index value": -0.0577636795062369
+ },
+ {
+  "census tract": 53053071409,
+  "income z-score": -1.114876702579231,
+  "computers z-score": -0.4513995886641357,
+  "internet z-score": -0.3272975759306256,
+  "composite index value": -0.6311912890579975
+ },
+ {
+  "census tract": 53053071411,
+  "income z-score": -0.04040846516115364,
+  "computers z-score": -0.3762429101760001,
+  "internet z-score": -0.150389519000941,
+  "composite index value": -0.1890136314460316
+ },
+ {
+  "census tract": 53053071412,
+  "income z-score": 0.4501087872758873,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.209136781513485,
+  "composite index value": 0.9809949828997175
+ },
+ {
+  "census tract": 53053071413,
+  "income z-score": 2.130341026037991,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 1.616197735064531
+ },
+ {
+  "census tract": 53053071414,
+  "income z-score": 0.2461531469143629,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 0.9881351086899887
+ },
+ {
+  "census tract": 53053071415,
+  "income z-score": -0.4515090136195856,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 0.3972984380690417,
+  "composite index value": 0.4098429347864119
+ },
+ {
+  "census tract": 53053071416,
+  "income z-score": -1.099717837417226,
+  "computers z-score": 0.3328440129511933,
+  "internet z-score": -1.359665141027142,
+  "composite index value": -0.7088463218310582
+ },
+ {
+  "census tract": 53053071417,
+  "income z-score": 0.8511296747434794,
+  "computers z-score": 0.4798896882540675,
+  "internet z-score": 0.8383568813731873,
+  "composite index value": 0.7231254147902448
+ },
+ {
+  "census tract": 53053071503,
+  "income z-score": -0.9360808410190609,
+  "computers z-score": -1.611426582720143,
+  "internet z-score": -0.833787766318353,
+  "composite index value": -1.127098396685852
+ },
+ {
+  "census tract": 53053071504,
+  "income z-score": -1.186812408166201,
+  "computers z-score": 0.9177590324892929,
+  "internet z-score": -0.1964340817634617,
+  "composite index value": -0.1551624858134568
+ },
+ {
+  "census tract": 53053071505,
+  "income z-score": -0.04596015344126463,
+  "computers z-score": -0.2390002798933176,
+  "internet z-score": -0.07284078171669557,
+  "composite index value": -0.1192670716837593
+ },
+ {
+  "census tract": 53053071506,
+  "income z-score": -0.3367347488215462,
+  "computers z-score": 0.5746524567825865,
+  "internet z-score": 0.7995825127310645,
+  "composite index value": 0.3458334068973682
+ },
+ {
+  "census tract": 53053071601,
+  "income z-score": -1.105781383482028,
+  "computers z-score": -0.4906117687449022,
+  "internet z-score": -1.412979897910061,
+  "composite index value": -1.003124350045664
+ },
+ {
+  "census tract": 53053071603,
+  "income z-score": -1.162518850231248,
+  "computers z-score": -1.947997795080056,
+  "internet z-score": -1.354818344946876,
+  "composite index value": -1.488444996752727
+ },
+ {
+  "census tract": 53053071604,
+  "income z-score": -0.7692152032097672,
+  "computers z-score": 0.1269800675271694,
+  "internet z-score": 0.3754878557078478,
+  "composite index value": -0.08891575999158335
+ },
+ {
+  "census tract": 53053071703,
+  "income z-score": -1.170275464353105,
+  "computers z-score": -0.5004148137650939,
+  "internet z-score": -1.080974366411885,
+  "composite index value": -0.9172215481766948
+ },
+ {
+  "census tract": 53053071704,
+  "income z-score": -1.593266862886668,
+  "computers z-score": 0.8818145340819237,
+  "internet z-score": 0.1937330026978978,
+  "composite index value": -0.1725731087022823
+ },
+ {
+  "census tract": 53053071705,
+  "income z-score": -1.005024147249375,
+  "computers z-score": 0.3720561930319597,
+  "internet z-score": -0.4072697112550036,
+  "composite index value": -0.3467458884908065
+ },
+ {
+  "census tract": 53053071706,
+  "income z-score": -1.469121663261207,
+  "computers z-score": -1.046117653222427,
+  "internet z-score": 0.1210310614939178,
+  "composite index value": -0.7980694183299054
+ },
+ {
+  "census tract": 53053071707,
+  "income z-score": -1.145430674957715,
+  "computers z-score": -1.307532187094204,
+  "internet z-score": -0.710194466271587,
+  "composite index value": -1.054385776107835
+ },
+ {
+  "census tract": 53053071803,
+  "income z-score": -1.121530853780215,
+  "computers z-score": -1.395759592275928,
+  "internet z-score": -0.4096931092951365,
+  "composite index value": -0.9756611851170932
+ },
+ {
+  "census tract": 53053071805,
+  "income z-score": -1.523063599032499,
+  "computers z-score": -0.7422232575964871,
+  "internet z-score": -0.8895259212414044,
+  "composite index value": -1.05160425929013
+ },
+ {
+  "census tract": 53053071806,
+  "income z-score": -1.807302164239032,
+  "computers z-score": -1.572214402639377,
+  "internet z-score": -1.946127466739247,
+  "composite index value": -1.775214677872552
+ },
+ {
+  "census tract": 53053071807,
+  "income z-score": -1.365490148699135,
+  "computers z-score": -0.006994881082116059,
+  "internet z-score": -0.3854591288938096,
+  "composite index value": -0.5859813862250204
+ },
+ {
+  "census tract": 53053071808,
+  "income z-score": -1.617206057739913,
+  "computers z-score": -1.176824920158315,
+  "internet z-score": -1.316043976304754,
+  "composite index value": -1.370024984734328
+ },
+ {
+  "census tract": 53053071901,
+  "income z-score": -0.6771201756411175,
+  "computers z-score": -2.722438351675193,
+  "internet z-score": -2.161809892311055,
+  "composite index value": -1.853789473209122
+ },
+ {
+  "census tract": 53053071902,
+  "income z-score": 0.1651614959059351,
+  "computers z-score": -0.5755714922532298,
+  "internet z-score": -1.681977080364786,
+  "composite index value": -0.6974623589040271
+ },
+ {
+  "census tract": 53053072000,
+  "income z-score": -1.512235838202495,
+  "computers z-score": 0.5583140484156003,
+  "internet z-score": -0.4218100994957997,
+  "composite index value": -0.4585772964275647
+ },
+ {
+  "census tract": 53053072105,
+  "income z-score": 0.3228924409422801,
+  "computers z-score": 0.4504805531934927,
+  "internet z-score": 0.5378555243967365,
+  "composite index value": 0.4370761728441697
+ },
+ {
+  "census tract": 53053072106,
+  "income z-score": -1.302492267506387,
+  "computers z-score": -0.6311220807009822,
+  "internet z-score": -1.017966017368436,
+  "composite index value": -0.9838601218586014
+ },
+ {
+  "census tract": 53053072107,
+  "income z-score": 0.1557118137270227,
+  "computers z-score": -0.216126508179537,
+  "internet z-score": 0.2010031968182958,
+  "composite index value": 0.04686283412192716
+ },
+ {
+  "census tract": 53053072108,
+  "income z-score": -0.2701144894602143,
+  "computers z-score": -0.1573082380583875,
+  "internet z-score": 0.5645129028381959,
+  "composite index value": 0.04569672510653139
+ },
+ {
+  "census tract": 53053072109,
+  "income z-score": -0.05489797783548588,
+  "computers z-score": 0.120444704180375,
+  "internet z-score": 0.2785519341025412,
+  "composite index value": 0.1146995534824768
+ },
+ {
+  "census tract": 53053072111,
+  "income z-score": 0.9280264634743786,
+  "computers z-score": 0.4112683731127262,
+  "internet z-score": 0.9037886284567693,
+  "composite index value": 0.747694488347958
+ },
+ {
+  "census tract": 53053072112,
+  "income z-score": -0.05611856178359539,
+  "computers z-score": -0.4873440870715051,
+  "internet z-score": -0.08738116995749169,
+  "composite index value": -0.2102812729375307
+ },
+ {
+  "census tract": 53053072305,
+  "income z-score": 0.06503423848520981,
+  "computers z-score": -0.0004595177353216444,
+  "internet z-score": -0.2424786445259823,
+  "composite index value": -0.05930130792536472
+ },
+ {
+  "census tract": 53053072307,
+  "income z-score": -0.381896354901598,
+  "computers z-score": 0.0648941157326225,
+  "internet z-score": 0.5305853302763385,
+  "composite index value": 0.07119436370245431
+ },
+ {
+  "census tract": 53053072309,
+  "income z-score": 0.838057614395984,
+  "computers z-score": 0.8850822157553208,
+  "internet z-score": 0.9764905696607493,
+  "composite index value": 0.8998767999373514
+ },
+ {
+  "census tract": 53053072310,
+  "income z-score": -0.7207462083670961,
+  "computers z-score": -1.033046926528838,
+  "internet z-score": -0.08738116995749169,
+  "composite index value": -0.6137247682844754
+ },
+ {
+  "census tract": 53053072311,
+  "income z-score": -0.9135590984926532,
+  "computers z-score": -0.5559654022128463,
+  "internet z-score": -0.223091460204921,
+  "composite index value": -0.5642053203034735
+ },
+ {
+  "census tract": 53053072312,
+  "income z-score": -0.1758539097255637,
+  "computers z-score": 0.3001671962172213,
+  "internet z-score": -0.3369911680911563,
+  "composite index value": -0.07089262719983289
+ },
+ {
+  "census tract": 53053072313,
+  "income z-score": 1.018270928282991,
+  "computers z-score": 0.3197732862576044,
+  "internet z-score": 0.6226744558013798,
+  "composite index value": 0.6535728901139919
+ },
+ {
+  "census tract": 53053072314,
+  "income z-score": -0.06281208666032495,
+  "computers z-score": -1.238910871952862,
+  "internet z-score": 0.1525352360156424,
+  "composite index value": -0.3830625741991815
+ },
+ {
+  "census tract": 53053072315,
+  "income z-score": 0.3927807153904859,
+  "computers z-score": 0.8981529424489096,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 0.9084821523617396
+ },
+ {
+  "census tract": 53053072405,
+  "income z-score": 2.332761093045442,
+  "computers z-score": 0.4243390998063151,
+  "internet z-score": 1.211560179553618,
+  "composite index value": 1.322886790801792
+ },
+ {
+  "census tract": 53053072406,
+  "income z-score": 1.872089086823466,
+  "computers z-score": 0.9079559874691013,
+  "internet z-score": 1.146128432470036,
+  "composite index value": 1.308724502254201
+ },
+ {
+  "census tract": 53053072407,
+  "income z-score": 0.2789907924860832,
+  "computers z-score": 0.5517786850688059,
+  "internet z-score": 0.1404182458149791,
+  "composite index value": 0.3237292411232894
+ },
+ {
+  "census tract": 53053072408,
+  "income z-score": 0.6530800857437752,
+  "computers z-score": 0.7641779938396241,
+  "internet z-score": 1.155822024630567,
+  "composite index value": 0.8576933680713221
+ },
+ {
+  "census tract": 53053072409,
+  "income z-score": 1.504142086982067,
+  "computers z-score": 0.9471681675498678,
+  "internet z-score": 1.184902801112159,
+  "composite index value": 1.212071018548031
+ },
+ {
+  "census tract": 53053072410,
+  "income z-score": 2.086596872284776,
+  "computers z-score": 0.4504805531934927,
+  "internet z-score": 0.4094154282697051,
+  "composite index value": 0.9821642845826579
+ },
+ {
+  "census tract": 53053072503,
+  "income z-score": 0.7373003781633313,
+  "computers z-score": -0.3925813185429861,
+  "internet z-score": -0.04376000523510353,
+  "composite index value": 0.1003196847950805
+ },
+ {
+  "census tract": 53053072504,
+  "income z-score": 1.962018562226115,
+  "computers z-score": 0.4700866432338758,
+  "internet z-score": 0.8310866872527892,
+  "composite index value": 1.08773063090426
+ },
+ {
+  "census tract": 53053072506,
+  "income z-score": 1.15485820944402,
+  "computers z-score": 0.8948852607755124,
+  "internet z-score": 0.811699502931728,
+  "composite index value": 0.9538143243837535
+ },
+ {
+  "census tract": 53053072507,
+  "income z-score": -0.0727342529481829,
+  "computers z-score": -0.2814801416474812,
+  "internet z-score": 0.4918109616342158,
+  "composite index value": 0.04586552234618389
+ },
+ {
+  "census tract": 53053072508,
+  "income z-score": 0.9100326936586997,
+  "computers z-score": 1.077875434485756,
+  "internet z-score": 0.746267755848146,
+  "composite index value": 0.9113919613308671
+ },
+ {
+  "census tract": 53053072509,
+  "income z-score": 0.9906699815854182,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 1.236307386913674
+ },
+ {
+  "census tract": 53053072601,
+  "income z-score": 1.281641445344427,
+  "computers z-score": 0.9242943958360873,
+  "internet z-score": 1.233370761914812,
+  "composite index value": 1.146435534365109
+ },
+ {
+  "census tract": 53053072602,
+  "income z-score": 0.1700832053741186,
+  "computers z-score": 0.7609103121662271,
+  "internet z-score": -0.08738116995749169,
+  "composite index value": 0.2812041158609513
+ },
+ {
+  "census tract": 53053072603,
+  "income z-score": -0.6469205663443435,
+  "computers z-score": 0.5419756400486144,
+  "internet z-score": 0.4360728067111644,
+  "composite index value": 0.1103759601384785
+ },
+ {
+  "census tract": 53053072801,
+  "income z-score": 1.270656189811441,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 1.329636122989015
+ },
+ {
+  "census tract": 53053072802,
+  "income z-score": 0.3408468370822135,
+  "computers z-score": 0.440677508173301,
+  "internet z-score": 0.8092761048915952,
+  "composite index value": 0.5302668167157032
+ },
+ {
+  "census tract": 53053072901,
+  "income z-score": -1.381790850457759,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.197019791312822,
+  "composite index value": 0.366322773588281
+ },
+ {
+  "census tract": 53053072903,
+  "income z-score": -0.9668316817762714,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 0.5838068324597773
+ },
+ {
+  "census tract": 53053072907,
+  "income z-score": -1.40124144627602,
+  "computers z-score": -0.4056520452365749,
+  "internet z-score": 0.2615881478216125,
+  "composite index value": -0.5151017812303276
+ },
+ {
+  "census tract": 53053072908,
+  "income z-score": -1.606181428531182,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 0.1234544595340504,
+  "composite index value": -0.06632919636245044
+ },
+ {
+  "census tract": 53053073001,
+  "income z-score": 0.4969240877372488,
+  "computers z-score": -1.784613711410196,
+  "internet z-score": -2.127882319749197,
+  "composite index value": -1.138523981140715
+ },
+ {
+  "census tract": 53053073005,
+  "income z-score": 0.08334299770685245,
+  "computers z-score": -0.7552939842900759,
+  "internet z-score": -1.713481254886511,
+  "composite index value": -0.7951440804899116
+ },
+ {
+  "census tract": 53053073006,
+  "income z-score": 0.7085182211933941,
+  "computers z-score": 0.08450020577300575,
+  "internet z-score": -0.8459047565190165,
+  "composite index value": -0.01762877651753888
+ },
+ {
+  "census tract": 53053073110,
+  "income z-score": 0.5074368591612888,
+  "computers z-score": 0.2086721093620995,
+  "internet z-score": 0.6372148440421759,
+  "composite index value": 0.4511079375218547
+ },
+ {
+  "census tract": 53053073111,
+  "income z-score": 0.02518807863079614,
+  "computers z-score": 0.5550463667422032,
+  "internet z-score": 0.8335100852929219,
+  "composite index value": 0.4712481768886405
+ },
+ {
+  "census tract": 53053073114,
+  "income z-score": 0.01317910752842838,
+  "computers z-score": -1.934927068386467,
+  "internet z-score": -1.446907470471918,
+  "composite index value": -1.122885143776652
+ },
+ {
+  "census tract": 53053073115,
+  "income z-score": 0.7133218096343412,
+  "computers z-score": -0.2716770966272895,
+  "internet z-score": -0.07284078171669557,
+  "composite index value": 0.122934643763452
+ },
+ {
+  "census tract": 53053073116,
+  "income z-score": 0.8375457566112929,
+  "computers z-score": 0.296899514543824,
+  "internet z-score": 0.4481897969118278,
+  "composite index value": 0.5275450226889816
+ },
+ {
+  "census tract": 53053073117,
+  "income z-score": 0.7071401425423027,
+  "computers z-score": -1.153951148444535,
+  "internet z-score": -1.47598824695351,
+  "composite index value": -0.6409330842852473
+ },
+ {
+  "census tract": 53053073118,
+  "income z-score": 0.2098899915527868,
+  "computers z-score": 0.9177590324892929,
+  "internet z-score": 1.163092218750965,
+  "composite index value": 0.7635804142643482
+ },
+ {
+  "census tract": 53053073119,
+  "income z-score": 0.109802107807807,
+  "computers z-score": -0.04947474283627969,
+  "internet z-score": 0.7171869793665538,
+  "composite index value": 0.2591714481126937
+ },
+ {
+  "census tract": 53053073120,
+  "income z-score": 0.2165441427537709,
+  "computers z-score": 1.104016887872934,
+  "internet z-score": 0.6638722224836352,
+  "composite index value": 0.6614777510367799
+ },
+ {
+  "census tract": 53053073121,
+  "income z-score": 0.9608247353703534,
+  "computers z-score": 0.5517786850688059,
+  "internet z-score": 0.9667969775002186,
+  "composite index value": 0.8264667993131259
+ },
+ {
+  "census tract": 53053073122,
+  "income z-score": 0.7128099518496502,
+  "computers z-score": 1.08441079783255,
+  "internet z-score": 0.9934543559416779,
+  "composite index value": 0.9302250352079594
+ },
+ {
+  "census tract": 53053073123,
+  "income z-score": 1.772906797620632,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 0.6032872714803185,
+  "composite index value": 1.21997781633691
+ },
+ {
+  "census tract": 53053073124,
+  "income z-score": 0.5638199628287991,
+  "computers z-score": 1.090946161179345,
+  "internet z-score": 1.046769112824597,
+  "composite index value": 0.9005117456109134
+ },
+ {
+  "census tract": 53053073126,
+  "income z-score": 0.3670697051286952,
+  "computers z-score": 1.28373937990978,
+  "internet z-score": 1.434512799245823,
+  "composite index value": 1.028440628094766
+ },
+ {
+  "census tract": 53053073127,
+  "income z-score": -0.428160423902523,
+  "computers z-score": 0.280561106176838,
+  "internet z-score": -0.5914479623050862,
+  "composite index value": -0.2463490933435904
+ },
+ {
+  "census tract": 53053073128,
+  "income z-score": 0.3182463472043148,
+  "computers z-score": -0.2357325982199204,
+  "internet z-score": 0.0871034889320605,
+  "composite index value": 0.05653907930548496
+ },
+ {
+  "census tract": 53053073129,
+  "income z-score": 0.8120316147282297,
+  "computers z-score": 0.8589407623681431,
+  "internet z-score": 1.119471054028577,
+  "composite index value": 0.9301478103749831
+ },
+ {
+  "census tract": 53053073130,
+  "income z-score": -0.2790523138544355,
+  "computers z-score": -0.07561619622345735,
+  "internet z-score": -2.360528531601933,
+  "composite index value": -0.9050656805599419
+ },
+ {
+  "census tract": 53053073131,
+  "income z-score": 0.3329327282573744,
+  "computers z-score": -0.1605759197317846,
+  "internet z-score": 0.6275212518816452,
+  "composite index value": 0.266626020135745
+ },
+ {
+  "census tract": 53053073132,
+  "income z-score": 0.1865414018357242,
+  "computers z-score": -0.5200209038054769,
+  "internet z-score": 0.1307246536544484,
+  "composite index value": -0.06758494943843477
+ },
+ {
+  "census tract": 53053073133,
+  "income z-score": 0.5714584559234199,
+  "computers z-score": 0.2282781994024827,
+  "internet z-score": 0.6517552322829718,
+  "composite index value": 0.4838306292029582
+ },
+ {
+  "census tract": 53053073200,
+  "income z-score": -0.01288626581507147,
+  "computers z-score": 0.153121520914347,
+  "internet z-score": -0.1528129170410736,
+  "composite index value": -0.004192553980599349
+ },
+ {
+  "census tract": 53053073301,
+  "income z-score": -0.5722287034551906,
+  "computers z-score": -0.1148283763042238,
+  "internet z-score": -0.2352084504055842,
+  "composite index value": -0.3074218433883329
+ },
+ {
+  "census tract": 53053073302,
+  "income z-score": 0.059246308150626,
+  "computers z-score": 0.3622531480117682,
+  "internet z-score": 0.4942343596743485,
+  "composite index value": 0.3052446052789142
+ },
+ {
+  "census tract": 53053073404,
+  "income z-score": -0.2024311408537547,
+  "computers z-score": -1.947997795080056,
+  "internet z-score": -1.987325233421503,
+  "composite index value": -1.379251389785104
+ },
+ {
+  "census tract": 53053073405,
+  "income z-score": -0.6626700366425307,
+  "computers z-score": -0.2193941898529342,
+  "internet z-score": -1.064010580130957,
+  "composite index value": -0.6486916022088072
+ },
+ {
+  "census tract": 53053073406,
+  "income z-score": -0.02458024751147548,
+  "computers z-score": 0.1890660193217162,
+  "internet z-score": 0.3124795066643985,
+  "composite index value": 0.1589884261582131
+ },
+ {
+  "census tract": 53053073407,
+  "income z-score": -0.565535178578461,
+  "computers z-score": -0.3860459551961918,
+  "internet z-score": -1.335431160625815,
+  "composite index value": -0.7623374314668228
+ },
+ {
+  "census tract": 53053073408,
+  "income z-score": -0.08206581409985883,
+  "computers z-score": -0.2193941898529342,
+  "internet z-score": -0.06072379151603227,
+  "composite index value": -0.1207279318229418
+ },
+ {
+  "census tract": 53053073501,
+  "income z-score": 1.100286294860801,
+  "computers z-score": 0.9863803476306342,
+  "internet z-score": 1.027381928503535,
+  "composite index value": 1.038016190331657
+ },
+ {
+  "census tract": 53053073502,
+  "income z-score": 0.6622541521924692,
+  "computers z-score": 0.6171323185367501,
+  "internet z-score": 0.6250978538415126,
+  "composite index value": 0.6348281081902439
+ },
+ {
+  "census tract": 53053940001,
+  "income z-score": 1.585212485341986,
+  "computers z-score": 0.9765773026104426,
+  "internet z-score": 1.206713383473353,
+  "composite index value": 1.256167723808594
+ },
+ {
+  "census tract": 53053940002,
+  "income z-score": -0.279682292666363,
+  "computers z-score": 0.1956013826685107,
+  "internet z-score": -0.4096931092951365,
+  "composite index value": -0.1645913397643296
+ },
+ {
+  "census tract": 53053940004,
+  "income z-score": 0.3487609459070526,
+  "computers z-score": 0.6922889970248858,
+  "internet z-score": -0.2473254406062478,
+  "composite index value": 0.2645748341085636
+ },
+ {
+  "census tract": 53053940005,
+  "income z-score": 0.1844152233454689,
+  "computers z-score": 0.1988690643419079,
+  "internet z-score": 0.4603067871124913,
+  "composite index value": 0.2811970249332894
+ },
+ {
+  "census tract": 53053940006,
+  "income z-score": -2.006060479402155,
+  "computers z-score": -1.666977171167896,
+  "internet z-score": -2.219971445274239,
+  "composite index value": -1.96433636528143
+ },
+ {
+  "census tract": 53053940007,
+  "income z-score": -0.7550013062656533,
+  "computers z-score": -1.140880421750946,
+  "internet z-score": -1.296656791983692,
+  "composite index value": -1.064179506666764
+ },
+ {
+  "census tract": 53053940008,
+  "income z-score": 0.4682206781188026,
+  "computers z-score": 0.04202034401884212,
+  "internet z-score": 0.4748471753532872,
+  "composite index value": 0.3283627324969773
+ },
+ {
+  "census tract": 53053940009,
+  "income z-score": 1.181514187923702,
+  "computers z-score": 0.6269353635569418,
+  "internet z-score": 0.5645129028381959,
+  "composite index value": 0.7909874847729466
+ },
+ {
+  "census tract": 53053940010,
+  "income z-score": -0.4469416672331112,
+  "computers z-score": -0.9938347464480717,
+  "internet z-score": -0.9283002898835272,
+  "composite index value": -0.7896922345215701
+ },
+ {
+  "census tract": 53053940011,
+  "income z-score": 1.84972483900004,
+  "computers z-score": 0.855673080694746,
+  "internet z-score": 1.061309501065393,
+  "composite index value": 1.255569140253393
+ },
+ {
+  "census tract": 53053940012,
+  "income z-score": -0.5710081195070811,
+  "computers z-score": 0.7609103121662271,
+  "internet z-score": 0.01924834380834576,
+  "composite index value": 0.06971684548916392
+ },
+ {
+  "census tract": 53053940013,
+  "income z-score": 0.9221204121125584,
+  "computers z-score": 0.3883946013989457,
+  "internet z-score": 0.6856828048448292,
+  "composite index value": 0.6653992727854444
+ }
+]
